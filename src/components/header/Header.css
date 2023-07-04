@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+align-content: center;
+gap: 30px;
+top: 0;
+}
+
+.enroll-button{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.sum{
+    background: #088178;
+    border-radius: 45px;
+}

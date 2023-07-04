@@ -1,0 +1,10 @@
+.calendarrow{
+    width: 100%;
+    align-content: center;
+    padding: 30px;
+}
+
+.hour{
+    font-size: 32px;
+
+}
