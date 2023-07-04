@@ -4,7 +4,6 @@ export const EnrollementListContext = createContext()
 const EnrollementListProvider = ({children}) => {
 
     const [enrolled, setEnrolled] = useState(JSON.parse(localStorage.getItem('enrollement')) || [])
-    console.log(enrolled)
   return (
 <EnrollementListContext.Provider value={{enrolled,   setEnrolled}}>
     {children}

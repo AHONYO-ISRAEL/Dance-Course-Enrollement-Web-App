@@ -44,7 +44,6 @@ else{
 }
 
   }
-  console.log(enrolled)
 }
     let backgroundColor = enrolled.find((x) => x.id === CourseObject.id)
       ? "#088178" // Color when enrolled

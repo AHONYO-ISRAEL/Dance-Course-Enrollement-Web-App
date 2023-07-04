@@ -37,19 +37,34 @@ const Calendar = () => {
     ]
 
     const Hours = [
-        {
-            id:1,
-            hour: '18:10',
-        },
+
     {
-        id:2,
+        id:1,
         hour: '19:15'
     },
     {
-        id: 3,
+        id: 2,
         hour:'20:25'
-    }
+    },
+    {
+        id:3,
+        hour: '18:10',
+    },
+
     ]
+
+    Hours.sort((a, b) => {
+        const hourA = a.hour;
+        const hourB = b.hour;
+    
+        if (hourA < hourB) {
+            return -1;
+        }
+        if (hourA > hourB) {
+            return 1;
+        }
+        return 0;
+    });
     
     const  courses =[
      {
