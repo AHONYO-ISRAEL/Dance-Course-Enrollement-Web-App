@@ -1,4 +1,3 @@
-# intro_react_2.1
 ##### Link : https://ahonyo-israel.github.io/intro_react_2.1/
 
 # Data Management in order to build a course enrollememnt calendar
