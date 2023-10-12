@@ -1,4 +1,4 @@
-##### Link : https://ahonyo-israel.github.io/intro_react_2.1/
+##### Link : https://ahonyo-israel.github.io/Dance-Course-Enrollement-Web-App/
 
 # Data Management in order to build a course enrollememnt calendar
 # Course Enrollment Calendar
@@ -42,7 +42,7 @@ You can explore the complete list of courses, their days, hours, and prices in t
 
 ## Try It Out
 
-To see the course enrollment calendar in action and interact with it, visit the [live demo](https://ahonyo-israel.github.io/intro_react_2.1/).
+To see the course enrollment calendar in action and interact with it, visit the [live demo](https://ahonyo-israel.github.io/Dance-Course-Enrollement-Web-App/).
 
 
 
